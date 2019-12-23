@@ -15,3 +15,7 @@ Things that used to keep me busy:
 - Topological Insulators, my first paper was [published](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.085405) in Phys. Rev. B, check it out [here](https://arxiv.org/pdf/1709.08354.pdf).
  
  > The only excuse for making a useless thing is that one admires it intensely. All art is quite useless. - Oscar Wilde, The Potrait of Dorian Gray.
+
+I used to enjoy photography with my DSLR but then I realized the superficiality of a complex camera and decided to do my best with my phone since the composition decides your skill (also mainly because I lost my DSLR when we were shifting houses). More of this [here](https://www.flickr.com/photos/105114536@N07/).
+
+Last updated: 12/22/2019, 11:25 PM.
