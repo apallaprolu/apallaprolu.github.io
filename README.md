@@ -2,38 +2,14 @@
 
 I'm an electrical engineering graduate student at UC Santa Barbara. I report to [Prof. Yasamin Mostofi](https://www.ece.ucsb.edu/~ymostofi/) who runs the wireless sensing and human-computer interaction based robotics laboratory. 
 
-You can use the [editor on GitHub](https://github.com/apallaprolu/apallaprolu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I worked for Qualcomm from July 2017 to September 2019, and worked towards my Masters in Physics and Bachelors in Electrical Engineering from BITS Pilani, Rajasthan from August 2012 to June 2017. You can check [this](https://www.linkedin.com/in/apallapr/) for more details. Make sure you send me a connection request as well!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Things that keep me busy:
+- Random crowd simulation for EM field analysis.
+- High-volatility-asset management using ensemble learning for trend recognition.
+- Pareto equilibria in MIMO communication systems.
+- Perceptrons, the Girard-Reynolds Type System, Ito Calculus, yada yada.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/apallaprolu/apallaprolu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Things that used to keep me busy:
+- VLSI Design, Billion-Net Mesh IC Signoff
+- Topological Insulators, my first paper was [published](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.085405) in Phys. Rev. B, check it out [here](https://arxiv.org/pdf/1709.08354.pdf).
