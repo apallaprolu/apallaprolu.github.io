@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome!
+
+I'm an electrical engineering graduate student at UC Santa Barbara. I report to [Prof. Yasamin Mostofi](https://www.ece.ucsb.edu/~ymostofi/) who runs the wireless sensing and human-computer interaction based robotics laboratory. 
 
 You can use the [editor on GitHub](https://github.com/apallaprolu/apallaprolu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
