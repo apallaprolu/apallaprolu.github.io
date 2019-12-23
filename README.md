@@ -16,6 +16,6 @@ Things that used to keep me busy:
  
  > The only excuse for making a useless thing is that one admires it intensely. All art is quite useless. - Oscar Wilde, The Potrait of Dorian Gray.
 
-I used to enjoy photography with my DSLR but then I realized the superficiality of a complex camera and decided to do my best with my phone since the composition decides your skill (also mainly because I lost my DSLR when we were shifting houses). More of this [here](https://www.flickr.com/photos/105114536@N07/).
+I used to enjoy photography with my DSLR but then I realized the superficiality of harnessing a complex camera and decided to do the best I could simply with my phone instead. I strongly feel the composition of the capture decides your skill and also I lost my DSLR when we were shifting houses. More of this [here](https://www.flickr.com/photos/105114536@N07/).
 
 Last updated: 12/22/2019, 11:25 PM.
