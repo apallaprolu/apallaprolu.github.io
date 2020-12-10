@@ -26,13 +26,17 @@ The "Excursion" Trilogy:
  - [An Excursion In Digital Logic (via a detour to Asynchronous Design)](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/ST.pdf)
  - [An Excursion In Particle Physics](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/PRL.pdf)
  
+ The Graphene Series:
+  - [Topological Modifications Of Graphene Under Periodic Kicking](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/THESIS.pdf)
+  - [Floquet Topological Phase Transitions In A Kicked Haldane-Chern Insulator](https://arxiv.org/abs/1709.08354)
+  - [The Landau Problem In Graphene](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/IISC.pdf)
+ 
 Assorted Collection:
- - Challenges and Thrills of Legal Arguments
- - Short Baseline Imaging Systems
- - Joint Precoding and Power Control Design in Massive MIMO: A Game Theoretic Approach
- - On Dropping Needles and WiFi Link Crossing
- - Topological Modifications Of Graphene Under Periodic Kicking
- - Electromagnetic Torquing In Seeker Head Gyroscopes 
+ - [Challenges and Thrills of Legal Arguments](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/CATOLA.pdf)
+ - [Short Baseline Imaging Systems](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/SBS.pdf)
+ - [Joint Precoding and Power Control Design in Massive MIMO: A Game Theoretic Approach](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/JP.pdf)
+ - [On Dropping Needles and WiFi Link Crossing](https://arxiv.org/abs/1912.11366)
+ - [Electromagnetic Torquing In Seeker Head Gyroscopes](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/APOGEE.pdf)
 
 
 Last updated: 12/9/2020, 11:31 PM.
