@@ -22,9 +22,9 @@ I used to enjoy photography with my DSLR but then I realized the superficiality 
 Some stuff that I wrote during my academic journey:
 
 The "Excursion" Trilogy:
- - An Excursion Into Adversarial Robustness
- - An Excursion In Digital Logic (via a detour to Asynchronous Design)
- - An Excursion In Particle Physics
+ - [An Excursion Into Adversarial Robustness](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/UCSB.pdf)
+ - [An Excursion In Digital Logic (via a detour to Asynchronous Design)](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/ST.pdf)
+ - [An Excursion In Particle Physics](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/PRL.pdf)
  
 Assorted Collection:
  - Challenges and Thrills of Legal Arguments
