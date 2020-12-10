@@ -22,16 +22,16 @@ I used to enjoy photography with my DSLR but then I realized the superficiality 
 Some stuff that I wrote during my academic journey:
 
 - The "Excursion" Trilogy:
--- An Excursion Into Adversarial Robustness
--- An Excursion In Digital Logic (via a detour to Asynchronous Design)
--- An Excursion In Particle Physics
+ - An Excursion Into Adversarial Robustness
+ - An Excursion In Digital Logic (via a detour to Asynchronous Design)
+ - An Excursion In Particle Physics
 - Assorted Collection:
--- Challenges and Thrills of Legal Arguments
--- Short Baseline Imaging Systems
--- Joint Precoding and Power Control Design in Massive MIMO: A Game Theoretic Approach
--- On Dropping Needles and WiFi Link Crossing
--- Topological Modifications Of Graphene Under Periodic Kicking
--- Electromagnetic Torquing In Seeker Head Gyroscopes 
+ - Challenges and Thrills of Legal Arguments
+ - Short Baseline Imaging Systems
+ - Joint Precoding and Power Control Design in Massive MIMO: A Game Theoretic Approach
+ - On Dropping Needles and WiFi Link Crossing
+ - Topological Modifications Of Graphene Under Periodic Kicking
+ - Electromagnetic Torquing In Seeker Head Gyroscopes 
 
 
 Last updated: 12/9/2020, 11:31 PM.
