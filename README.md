@@ -21,11 +21,12 @@ I used to enjoy photography with my DSLR but then I realized the superficiality 
 
 Some stuff that I wrote during my academic journey:
 
-- The "Excursion" Trilogy:
+The "Excursion" Trilogy:
  - An Excursion Into Adversarial Robustness
  - An Excursion In Digital Logic (via a detour to Asynchronous Design)
  - An Excursion In Particle Physics
-- Assorted Collection:
+ 
+Assorted Collection:
  - Challenges and Thrills of Legal Arguments
  - Short Baseline Imaging Systems
  - Joint Precoding and Power Control Design in Massive MIMO: A Game Theoretic Approach
