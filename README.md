@@ -39,4 +39,4 @@ Assorted Collection:
  - [Electromagnetic Torquing In Seeker Head Gyroscopes](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/APOGEE.pdf)
 
 
-Last updated: 12/9/2020, 11:31 PM.
+Last updated: 6/15/2022, 09:16 PM.
