@@ -27,21 +27,21 @@ Handwritten Lecture Notes:
  - [What is Principal Component Analysis?](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/PCA_Theory_Lecture_Notes.pdf)
 
 The "Excursion" Trilogy:
- - [An Excursion Into Adversarial Robustness](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/UCSB.pdf)
- - [An Excursion In Digital Logic (via a detour to Asynchronous Design)](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/ST.pdf)
- - [An Excursion In Particle Physics](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/PRL.pdf)
+ - [An Excursion Into Adversarial Robustness](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/UCSB.pdf)
+ - [An Excursion In Digital Logic (via a detour to Asynchronous Design)](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/ST.pdf)
+ - [An Excursion In Particle Physics](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/PRL.pdf)
  
 The Graphene Series:
-  - [Topological Modifications Of Graphene Under Periodic Kicking](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/THESIS.pdf)
+  - [Topological Modifications Of Graphene Under Periodic Kicking](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/THESIS.pdf)
   - [Floquet Topological Phase Transitions In A Kicked Haldane-Chern Insulator](https://arxiv.org/abs/1709.08354)
-  - [The Landau Problem In Graphene](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/IISC.pdf)
+  - [The Landau Problem In Graphene](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/IISC.pdf)
  
 Assorted Collection:
- - [Challenges and Thrills of Legal Arguments](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/CATOLA.pdf)
- - [Short Baseline Imaging Systems](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/SBS.pdf)
- - [Joint Precoding and Power Control Design in Massive MIMO: A Game Theoretic Approach](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/JP.pdf)
+ - [Challenges and Thrills of Legal Arguments](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/CATOLA.pdf)
+ - [Short Baseline Imaging Systems](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/SBS.pdf)
+ - [Joint Precoding and Power Control Design in Massive MIMO: A Game Theoretic Approach](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/JP.pdf)
  - [On Dropping Needles and WiFi Link Crossing](https://arxiv.org/abs/1912.11366)
- - [Electromagnetic Torquing In Seeker Head Gyroscopes](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/APOGEE.pdf)
+ - [Electromagnetic Torquing In Seeker Head Gyroscopes](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/APOGEE.pdf)
 
 
 Last updated: 8/10/2022, 05:51 PM.
