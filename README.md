@@ -21,12 +21,17 @@ I used to enjoy photography with my DSLR but then I realized the superficiality 
 
 Some stuff that I wrote during my academic journey:
 
+Handwritten Lecture Notes:
+ - [Frequency Modulated Chirp Wave Radar Concepts](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/FMCW_Radar_Notes.pdf)
+ - [Essentials of Orthogonal Frequency Division Multiplexing](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/OFDM_Lecture_Notes.pdf)
+ - [What is Principal Component Analysis?](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/PCA_Theory_Lecture_Notes.pdf)
+
 The "Excursion" Trilogy:
  - [An Excursion Into Adversarial Robustness](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/UCSB.pdf)
  - [An Excursion In Digital Logic (via a detour to Asynchronous Design)](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/ST.pdf)
  - [An Excursion In Particle Physics](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/PRL.pdf)
  
- The Graphene Series:
+The Graphene Series:
   - [Topological Modifications Of Graphene Under Periodic Kicking](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/THESIS.pdf)
   - [Floquet Topological Phase Transitions In A Kicked Haldane-Chern Insulator](https://arxiv.org/abs/1709.08354)
   - [The Landau Problem In Graphene](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/IISC.pdf)
@@ -39,4 +44,4 @@ Assorted Collection:
  - [Electromagnetic Torquing In Seeker Head Gyroscopes](https://github.com/apallaprolu/apallaprolu.github.io/blob/master/APOGEE.pdf)
 
 
-Last updated: 6/15/2022, 09:16 PM.
+Last updated: 8/10/2022, 05:51 PM.
