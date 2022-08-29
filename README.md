@@ -22,6 +22,7 @@ I used to enjoy photography with my DSLR but then I realized the superficiality 
 Some stuff that I wrote during my academic journey:
 
 Handwritten Lecture Notes:
+ - [Particle Filtering and Sequential Monte Carlo](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Particle_Filtering_Sequential_Monte_Carlo.pdf)
  - [Frequency Modulated Chirp Wave Radar Concepts](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/FMCW_Radar_Notes.pdf)
  - [Essentials of Orthogonal Frequency Division Multiplexing](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/OFDM_Lecture_Notes.pdf)
  - [What is Principal Component Analysis?](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/PCA_Theory_Lecture_Notes.pdf)
