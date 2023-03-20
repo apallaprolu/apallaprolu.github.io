@@ -5,7 +5,6 @@ I'm an electrical engineering graduate student at UC Santa Barbara. I report to 
 I worked for Qualcomm from July 2017 to September 2019, and worked towards my Masters in Physics and Bachelors in Electrical Engineering from BITS Pilani, Rajasthan from August 2012 to June 2017. You can check [this](https://www.linkedin.com/in/apallapr/) for more details. Make sure you send me a connection request as well! [Here](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Anurag_Pallaprolu_CV.pdf) is my CV that is up to date as of August 2022.
 
 Things that keep me busy:
-- Metamaterials and Programmable Radio Environments
 - Near Field Wireless Imaging
 - Exchange Traded Funds
 - 3D Powder Printers
