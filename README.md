@@ -6,7 +6,7 @@ Previously, I worked at Qualcomm as a VLSI CAD Engineer on advanced-node SoC sig
 
 **Links:**  
 
-[CV (PDF)](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Anurag_Pallaprolu_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/apallapr/)
+[CV (PDF)](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Anurag_Pallaprolu_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/apallapr/) · [Google Scholar](https://scholar.google.com/citations?user=nWXIc2QAAAAJ&hl=en)
 
 Things that keep me busy:
 - Near Field Wireless Imaging
