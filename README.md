@@ -8,21 +8,44 @@ Previously, I worked at Qualcomm as a VLSI CAD Engineer on advanced-node SoC sig
 
 [CV (PDF)](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Anurag_Pallaprolu_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/apallapr/) · [Google Scholar](https://scholar.google.com/citations?user=nWXIc2QAAAAJ&hl=en)
 
-Things that keep me busy:
-- Near Field Wireless Imaging
-- Exchange Traded Funds
-- 3D Powder Printers
 
-Things that used to keep me busy:
-- VLSI Design, Billion-Net Mesh IC Signoff
-- Fat Tailed Probability Distributions
-- Topological Insulators, my first paper was [published](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.085405) in Phys. Rev. B, check it out [here](https://arxiv.org/pdf/1709.08354.pdf).
- 
- > The only excuse for making a useless thing is that one admires it intensely. All art is quite useless. - Oscar Wilde, The Potrait of Dorian Gray.
+## Selected Research & Projects
 
-I used to enjoy photography with my DSLR but then I realized the superficiality of harnessing a complex camera and decided to do the best I could simply with my phone instead. I strongly feel the composition of the capture decides your skill and also I lost my DSLR when we were shifting houses. More of this [here](https://www.flickr.com/photos/105114536@N07/).
+### mmWave Sensing and Crowd Analytics
+I developed inference methods for mmWave sensing systems operating under partial observability caused by human occlusions. Specifically, I showed that blockage of mmWave signals by individuals in a crowd is not a limitation, but a useful signal that can be leveraged to infer occupancy and extract latent analytics.
 
-Some stuff that I wrote during my academic journey:
+I further designed and deployed a system that utilizes the TI AWR2243BOOST commodity mmWave MIMO radar to unravel dominant crowd flow patterns by constructing flow fields from sparse point clouds.
+
+Related publications include [ACM MobiCom 2024](https://dl.acm.org/doi/epdf/10.1145/3636534.3690664), [Asilomar SSC](https://arxiv.org/pdf/2410.09200), and [npj Wireless Technology](www.nature.com/articles/s44459-025-00007-w).
+
+---
+
+### WiFi Imaging via Diffraction-Based RF Modeling
+I investigated diffraction-dominated RF propagation as a sensing primitive, focusing on how edges encode geometric information that is not captured by specular reflection models. This work demonstrates that edge diffraction enables imaging of extended objects using commodity WiFi transceivers, including through-wall scenarios.
+
+I experimentally characterized Keller cones at 5 GHz and showed that edge-based imaging remains reliable even when sharp geometric features are not visually apparent.
+
+This line of work has been validated across several real-world experiments and has appeared in [ACM MobiCom 2022](https://dl.acm.org/doi/pdf/10.1145/3495243.3514261), [IEEE RadarConf](https://par.nsf.gov/servlets/purl/10538467), and [IEEE JSTEAP](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11173623). Please visit the [project page](https://web.ece.ucsb.edu/~ymostofi/WiFiReadingThroughWall) for more details.
+
+---
+
+### RF Field Programming and Edge-Based Metasurfaces
+
+Building on diffraction-aware modeling, I explored how engineered edges can be used to program RF fields in space. I proposed passive edge-lattice metasurfaces that enable multi-point RF focusing without active elements or phase shifters.
+
+The approach was validated experimentally using low-cost, fully passive structures, achieving simultaneous multi-focal field formation with measurable gain improvements. This work connects physical-layer modeling with forward design of RF environments.
+
+This research resulted in a [U.S. patent application](https://patents.google.com/patent/US20250123391A1/en) and a publication at [ACM MobiCom 2023](https://dl.acm.org/doi/pdf/10.1145/3570361.3613266).
+
+---
+
+### Collaborative and System-Level Wireless Sensing
+Across these projects, I have emphasized system-level design: integrating sensing hardware, signal processing pipelines, simulation workflows, and experimental validation. I have built automated EM simulation pipelines (Ansys HFSS, REMCOM Wireless InSite) to support large parametric sweeps and reproducible evaluation.
+
+My work reflects a broader interest in sensing systems that operate under real-world variability, where assumptions routinely break and robustness must be established through verification and field testing.
+
+
+## Notes and Earlier Work
 
 Handwritten Lecture Notes:
  - [Particle Filtering and Sequential Monte Carlo](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Particle_Filtering_Sequential_Monte_Carlo.pdf)
@@ -48,4 +71,4 @@ Assorted Collection:
  - [Electromagnetic Torquing In Seeker Head Gyroscopes](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/APOGEE.pdf)
 
 
-Last updated: 1/22/2026, 06:50 AM PST.
+Last updated: 1/22/2026, 08:15 AM PST.
