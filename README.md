@@ -1,5 +1,3 @@
-## Welcome!
-
 I am a Ph.D. candidate in Electrical and Computer Engineering at UC Santa Barbara, advised by [Prof. Yasamin Mostofi](https://www.ece.ucsb.edu/~ymostofi/).
 
 My research focuses on wireless sensing and perception systems, combining signal processing, machine learning, and large-scale experimental validation. I design end-to-end RF sensing pipelines using commodity WiFi and mmWave hardware, build automated simulation and verification workflows, and evaluate performance across real-world deployments.
