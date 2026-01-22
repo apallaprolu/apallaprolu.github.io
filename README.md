@@ -1,8 +1,12 @@
 I am a Ph.D. candidate in Electrical and Computer Engineering at UC Santa Barbara, advised by [Prof. Yasamin Mostofi](https://www.ece.ucsb.edu/~ymostofi/).
 
-My research focuses on wireless sensing and perception systems, combining signal processing, machine learning, and large-scale experimental validation. I design end-to-end RF sensing pipelines using commodity WiFi and mmWave hardware, build automated simulation and verification workflows, and evaluate performance across real-world deployments.
+My research focuses on wireless sensing and perception systems, combining physics-aware signal processing and large-scale experimental validation. I build end-to-end RF sensing pipelines using commodity WiFi and mmWave hardware, develop automated simulation and verification workflows, and evaluate system performance across real-world deployments.
 
-Previously, I worked at Qualcomm as a VLSI CAD Engineer on advanced-node SoC sign-off and automation. I also obtained my Masters in Physics and Bachelors in Electrical Engineering from BITS Pilani, Rajasthan from August 2012 to June 2017. You can check [this](https://www.linkedin.com/in/apallapr/) for more details. Make sure you send me a connection request as well! [Here](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Anurag_Pallaprolu_CV.pdf) is my CV that is up to date as of January 2026.
+Previously, I worked at Qualcomm as a VLSI CAD Engineer on advanced-node SoC sign-off and automation. I hold an M.S. in Physics and a B.E. in Electrical Engineering from BITS Pilani, Rajasthan.
+
+**Links:**  
+
+[CV (PDF)](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Anurag_Pallaprolu_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/apallapr/)
 
 Things that keep me busy:
 - Near Field Wireless Imaging
