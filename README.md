@@ -2,7 +2,7 @@
 
 I'm an electrical engineering graduate student at UC Santa Barbara. I report to [Prof. Yasamin Mostofi](https://www.ece.ucsb.edu/~ymostofi/) who runs the wireless sensing and human-computer interaction based robotics laboratory. 
 
-I worked for Qualcomm from July 2017 to September 2019, and worked towards my Masters in Physics and Bachelors in Electrical Engineering from BITS Pilani, Rajasthan from August 2012 to June 2017. You can check [this](https://www.linkedin.com/in/apallapr/) for more details. Make sure you send me a connection request as well! [Here](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Anurag_Pallaprolu_CV.pdf) is my CV that is up to date as of August 2023.
+I worked for Qualcomm from July 2017 to September 2019, and worked towards my Masters in Physics and Bachelors in Electrical Engineering from BITS Pilani, Rajasthan from August 2012 to June 2017. You can check [this](https://www.linkedin.com/in/apallapr/) for more details. Make sure you send me a connection request as well! [Here](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Anurag_Pallaprolu_CV.pdf) is my CV that is up to date as of January 2026.
 
 Things that keep me busy:
 - Near Field Wireless Imaging
@@ -44,4 +44,4 @@ Assorted Collection:
  - [Electromagnetic Torquing In Seeker Head Gyroscopes](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/APOGEE.pdf)
 
 
-Last updated: 4/25/2024, 02:16 PM IST.
+Last updated: 1/22/2026, 06:50 AM PST.
