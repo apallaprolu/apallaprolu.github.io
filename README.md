@@ -47,11 +47,12 @@ My work reflects a broader interest in sensing systems that operate under real-w
 
 ## Notes and Earlier Work
 
-Handwritten Lecture Notes:
- - [Particle Filtering and Sequential Monte Carlo](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Particle_Filtering_Sequential_Monte_Carlo.pdf)
- - [Frequency Modulated Chirp Wave Radar Concepts](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/FMCW_Radar_Notes.pdf)
- - [Essentials of Orthogonal Frequency Division Multiplexing](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/OFDM_Lecture_Notes.pdf)
- - [What is Principal Component Analysis?](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/PCA_Theory_Lecture_Notes.pdf)
+Assorted Collection:
+ - [Challenges and Thrills of Legal Arguments](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/CATOLA.pdf) - My course project for ECE 283 at UCSB proposes a transformer-based architecture that retrieves semantically relevant sub-contexts from an external corpus and conditions generation on them; the paper anticipates several core ideas behind modern Retrieval-Augmented Generation (RAG).
+ - [Short Baseline Imaging Systems](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/SBS.pdf)
+ - [Joint Precoding and Power Control Design in Massive MIMO: A Game Theoretic Approach](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/JP.pdf)
+ - [On Dropping Needles and WiFi Link Crossing](https://arxiv.org/abs/1912.11366)
+ - [Electromagnetic Torquing In Seeker Head Gyroscopes](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/APOGEE.pdf)
 
 The "Excursion" Trilogy:
  - [An Excursion Into Adversarial Robustness](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/UCSB.pdf)
@@ -63,12 +64,11 @@ The Graphene Series:
   - [Floquet Topological Phase Transitions In A Kicked Haldane-Chern Insulator](https://arxiv.org/abs/1709.08354)
   - [The Landau Problem In Graphene](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/IISC.pdf)
  
-Assorted Collection:
- - [Challenges and Thrills of Legal Arguments](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/CATOLA.pdf)
- - [Short Baseline Imaging Systems](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/SBS.pdf)
- - [Joint Precoding and Power Control Design in Massive MIMO: A Game Theoretic Approach](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/JP.pdf)
- - [On Dropping Needles and WiFi Link Crossing](https://arxiv.org/abs/1912.11366)
- - [Electromagnetic Torquing In Seeker Head Gyroscopes](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/APOGEE.pdf)
+Handwritten Lecture Notes:
+ - [Particle Filtering and Sequential Monte Carlo](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Particle_Filtering_Sequential_Monte_Carlo.pdf)
+ - [Frequency Modulated Chirp Wave Radar Concepts](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/FMCW_Radar_Notes.pdf)
+ - [Essentials of Orthogonal Frequency Division Multiplexing](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/OFDM_Lecture_Notes.pdf)
+ - [What is Principal Component Analysis?](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/PCA_Theory_Lecture_Notes.pdf)
 
 
 Last updated: 1/22/2026, 08:15 AM PST.
