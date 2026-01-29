@@ -16,7 +16,7 @@ I developed inference methods for mmWave sensing systems operating under partial
 
 I further designed and deployed a system that utilizes the TI AWR2243BOOST commodity mmWave MIMO radar to unravel dominant crowd flow patterns by constructing flow fields from sparse point clouds.
 
-Related publications include [ACM MobiCom 2024](https://dl.acm.org/doi/epdf/10.1145/3636534.3690664), [Asilomar SSC](https://arxiv.org/pdf/2410.09200), and [npj Wireless Technology](www.nature.com/articles/s44459-025-00007-w).
+Related publications include [ACM MobiCom 2024](https://dl.acm.org/doi/epdf/10.1145/3636534.3690664), [Asilomar SSC](https://arxiv.org/pdf/2410.09200), and [npj Wireless Technology](https://www.nature.com/articles/s44459-025-00007-w).
 
 ---
 
