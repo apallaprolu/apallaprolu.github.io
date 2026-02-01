@@ -49,7 +49,7 @@ My work reflects a broader interest in sensing systems that operate under real-w
 
 Assorted Collection:
  - [Challenges and Thrills of Legal Arguments](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/CATOLA.pdf)
-   My course project for ECE 283 at UCSB proposes a transformer-based architecture that retrieves semantically relevant sub-contexts from an external corpus and conditions generation on them; the paper anticipates several core ideas behind modern Retrieval-Augmented Generation (RAG).
+     - My course project for ECE 283 at UCSB proposes a transformer-based architecture that retrieves semantically relevant sub-contexts from an external corpus and conditions generation on them; the paper anticipates several core ideas behind modern Retrieval-Augmented Generation (RAG).
  - [Short Baseline Imaging Systems](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/SBS.pdf)
  - [Joint Precoding and Power Control Design in Massive MIMO: A Game Theoretic Approach](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/JP.pdf)
  - [On Dropping Needles and WiFi Link Crossing](https://arxiv.org/abs/1912.11366)
