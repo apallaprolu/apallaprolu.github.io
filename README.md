@@ -2,20 +2,20 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at UC Santa Barbar
 
 My research focuses on wireless sensing and perception systems, combining physics-aware signal processing and large-scale experimental validation. I build end-to-end RF sensing pipelines using commodity WiFi and mmWave hardware, develop automated simulation and verification workflows, and evaluate system performance across real-world deployments.
 
-### Academic Service & Reviewing
-
-* **ACM IMWUT** (Interactive, Mobile, Wearable and Ubiquitous Technologies)
-* **ACM MobiCom** (External Reviewer)
-* **ACM Transactions on Internet of Things**
-* **ACM Transactions on Sensor Networks**
-* **IEEE Communications Magazine**
-* **IEEE GLOBECOM Workshops**
-* **IEEE Internet of Things (IoT) Journal**
-* **IEEE Signal Processing Letters**
-* **IEEE Transactions on Mobile Computing**
-* **IEEE Transactions on Wireless Communications**
-
 Previously, I worked at Qualcomm as a VLSI CAD Engineer on advanced-node SoC sign-off and automation. I hold an M.S. in Physics and a B.E. in Electrical Engineering from BITS Pilani, Rajasthan.
+
+**Academic Service & Reviewing**
+
+* ACM IMWUT (Interactive, Mobile, Wearable and Ubiquitous Technologies)
+* ACM MobiCom (External Reviewer)
+* ACM Transactions on Internet of Things
+* ACM Transactions on Sensor Networks
+* IEEE Communications Magazine
+* IEEE GLOBECOM Workshops
+* IEEE Internet of Things (IoT) Journal
+* IEEE Signal Processing Letters
+* IEEE Transactions on Mobile Computing
+* IEEE Transactions on Wireless Communications
 
 **Links:**  
 
@@ -85,4 +85,4 @@ Handwritten Lecture Notes:
  - [What is Principal Component Analysis?](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Documents/PCA_Theory_Lecture_Notes.pdf)
 
 
-Last updated: 3/16/2026, 10:12 AM PST.
+Last updated: 6/17/2026, 4:23 PM PST.
