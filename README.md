@@ -1,4 +1,6 @@
-I am a Ph.D. candidate in Electrical and Computer Engineering at UC Santa Barbara, advised by [Prof. Yasamin Mostofi](https://www.ece.ucsb.edu/~ymostofi/).
+I am currently a Research Engineer at the Networking and Distributed Systems Laboratory, Hewlett Packard Enteprise, headed by [Dr. Puneet Sharma](https://www.hpe.com/psnow/doc/a00150137enw).
+
+I defended my Ph.D. thesis in Electrical and Computer Engineering at UC Santa Barbara, and was advised by [Prof. Yasamin Mostofi](https://www.ece.ucsb.edu/~ymostofi/).
 
 My research focuses on wireless sensing and perception systems, combining physics-aware signal processing and large-scale experimental validation. I build end-to-end RF sensing pipelines using commodity WiFi and mmWave hardware, develop automated simulation and verification workflows, and evaluate system performance across real-world deployments.
 
@@ -85,4 +87,4 @@ Handwritten Lecture Notes:
  - [What is Principal Component Analysis?](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Documents/PCA_Theory_Lecture_Notes.pdf)
 
 
-Last updated: 6/17/2026, 4:23 PM PST.
+Last updated: 7/26/2026, 6:24 PM PST.
