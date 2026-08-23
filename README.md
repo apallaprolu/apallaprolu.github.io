@@ -18,6 +18,7 @@ Previously, I worked at Qualcomm as a VLSI CAD Engineer on advanced-node SoC sig
 * IEEE Signal Processing Letters
 * IEEE Transactions on Mobile Computing
 * IEEE Transactions on Wireless Communications
+* IEEE Journal of Selected Areas in Sensors
 
 **Links:**  
 
@@ -87,4 +88,4 @@ Handwritten Lecture Notes:
  - [What is Principal Component Analysis?](https://github.com/apallaprolu/apallaprolu.github.io/raw/master/Documents/PCA_Theory_Lecture_Notes.pdf)
 
 
-Last updated: 7/26/2026, 6:24 PM PST.
+Last updated: 8/22/2026, 7:17 PM PST.
